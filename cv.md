@@ -29,3 +29,27 @@ A highly skilled, motivated individual with 3+ years in the software testing fie
 * Experience in Scrum / Kanban methodology;
 * Set up FB Ads (target);
 * Language: English - B1 level.
+
+## Tools:
+* Jira, Trello (Bugtracing System)
+* Devtools (Chrome, Firefox)
+* Swagger (Api)
+* CVS - Github
+* PostgreSQL
+* Test case software – TestRail
+* Vagrant
+* Virtualbox
+* Confluence
+* Tilda
+* FB Ads
+* Crello/Canva
+* Visual Studio Code (IDE)
+* Windows, UNIX, Linux, Mac OS X,Apple iOS, Android
+
+## Code Example:
+```
+type Vehicle = Bicycle | Car;
+function travelToTexas(vehicle: Vehicle) {
+  vehicle.move(currentLocation, new Location('texas'));
+}
+```
