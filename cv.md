@@ -30,6 +30,29 @@ A highly skilled, motivated individual with 3+ years in the software testing fie
 * Set up FB Ads (target);
 * Language: English - B1 level.
 
+## Tools:
+* Jira, Trello (Bugtracing System)
+* Devtools (Chrome, Firefox)
+* Swagger (Api)
+* CVS - Github
+* PostgreSQL
+* Test case software – TestRail
+* Vagrant
+* Virtualbox
+* Confluence
+* Tilda
+* FB Ads
+* Crello/Canva
+* Visual Studio Code (IDE)
+* Windows, UNIX, Linux, Mac OS X,Apple iOS, Android
+
+## Code Example:
+```
+type Vehicle = Bicycle | Car;
+function travelToTexas(vehicle: Vehicle) {
+  vehicle.move(currentLocation, new Location('texas'));
+}
+```
 ## Employment
 ### Aug.2021 – Feb.2022: **Quality Assurance Specialist** | “Foxtrot” (Ecommerces and retail)
 The lead trading network in Ukraine, specialized in household appliances and electronics
@@ -82,29 +105,6 @@ Project - [Customwriting](https://customwritings.com/)
 * 2016 - Quality Assurance Specialist | QA Courses «Test Engineer» (Kit Center, SkillUP, QA testlab) (Kiev)
 * 2002-2005 - Specialist (Manager of Tourism) | Kyiv University of Tourism, Economy and Law (Kiev)
 * 1999-2002 - Hospitality and restaurant | Kyiv Technical College of Hotel Business (Kiev)
+
 ## Referees :speech_balloon:
 Available upon request :+1:git
-
-## Tools:
-* Jira, Trello (Bugtracing System)
-* Devtools (Chrome, Firefox)
-* Swagger (Api)
-* CVS - Github
-* PostgreSQL
-* Test case software – TestRail
-* Vagrant
-* Virtualbox
-* Confluence
-* Tilda
-* FB Ads
-* Crello/Canva
-* Visual Studio Code (IDE)
-* Windows, UNIX, Linux, Mac OS X,Apple iOS, Android
-
-## Code Example:
-```
-type Vehicle = Bicycle | Car;
-function travelToTexas(vehicle: Vehicle) {
-  vehicle.move(currentLocation, new Location('texas'));
-}
-```
